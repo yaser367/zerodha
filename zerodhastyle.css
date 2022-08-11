@@ -1,0 +1,235 @@
+body
+{
+    margin: 0; 
+    font-family: 'Inter', sans-serif;
+    
+}
+.header
+{
+    width:100%;
+    height: 50px;
+}
+.logoimg
+{
+    width: 130px;
+    height: 50px;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+.main_first
+{
+    width: 60%;
+    
+    
+}
+.main_image
+{
+    margin: 60px;
+    width: 500px;
+    height: 350px;
+    margin-left: 100px;
+    float: left;
+    margin-top: 100px;
+    padding-left: 150px;
+    
+}
+
+.sign_div
+{
+    width: 40%;
+    float: left;
+}
+.signtext
+{
+    padding-left:10px;
+    padding-top:140px;
+    font-size: 30px;
+    font-weight:500 ;
+    color: rgb(60, 54, 54);
+    
+   
+}
+.para
+{
+   padding-left: 10px;
+   color: rgb(105, 100, 100);
+   padding-top: 0px;
+}
+.mob 
+{
+    border-style: none;
+}
+.mob_field
+{
+   
+    font-size:12px;
+    width:250px;
+}
+.mobnum
+{
+    font-weight:200 ;
+    font-size: small;
+}
+p
+{
+    font-weight:200 ;
+    font-size: small;
+}
+button
+{
+    background-color: #387ed1;
+    border: none;
+    height: 40px;
+    width: 100px;
+    color: #fff;
+}
+a
+{
+    text-decoration: none;
+    color: #387ed1;
+   
+}
+.senter_section
+{
+    width: 100%;
+    float: left;
+    text-align: center;
+    
+}
+.condact_section
+{
+    margin-top: 100px;
+    width: 100%;
+    background-color: #fafafb;
+    border-top: 1px solid #eee;
+    float: left;
+}
+.first_div
+{
+    width: 18%;
+    float: left;
+    height: 500px;
+   
+    
+    
+}
+.second_div
+{
+    width: 16%;
+    float: left;
+    height: 500px;
+   
+
+}
+.logoimg2
+{
+    width: 130px;
+    height: 50px;   
+}
+.icon_phone
+{
+    width: 15px;
+    height: 15px;
+    float: left;
+    
+}
+
+.third_div
+{
+    width: 16%;
+    float: left;
+    height: 500px;
+   
+}
+.fourth_div
+{
+    width: 16%;
+    float: left;
+    height: 500px;
+   
+}
+.fifth_div
+{
+    width: 16%;
+    float: left;
+    height: 500px;
+   
+}
+.sixth_div
+{
+    width: 18%;
+    float: left;
+}
+.number
+{
+    color: rgb(63, 54, 54);
+    float: left;
+    font-size: medium;
+}
+.social_media
+{
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+.social_media:hover
+{
+    background-color: #387ed1;
+    cursor: pointer;
+}
+h5
+{
+    color: rgb(103, 93, 93);
+}
+h5:hover
+{
+    cursor: pointer;
+    color: #387ed1;
+}
+.footer_section
+{
+    width: 100%;
+    float: left;
+}
+.footer_space
+{
+    width: 15%;
+    height: 100px;
+    color: #387ed1;
+    float: left;
+}
+.footer_text
+{
+    width: 70%;
+    float: left;
+
+}
+h6
+{
+    font-weight: 300;
+    
+}
+.countinue:hover
+{
+    cursor: pointer;
+    background-color : #5a80af;
+}
+.footer_div
+{
+    width: 100%;
+    float: left;
+    text-align: center;
+    background-color:#fafafb ;
+    
+   
+}
+.footer
+{
+    display: inline;
+    margin-left: 15px;
+    color: #9b9b9b;
+    font-size: smaller;
+    padding-bottom: 20px;
+}
